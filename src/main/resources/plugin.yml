@@ -1,0 +1,6 @@
+main: ${PACKAGE}.${NAME}
+name: ${NAME}
+version: "${VERSION}"
+api-version: "1.19"
+author: lordpipe
+description: Plugin to make husks drop sand
